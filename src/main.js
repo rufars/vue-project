@@ -4,8 +4,9 @@ import App from './App.vue'
 
 Vue.use(Vuelidate)
 
-
 new Vue({
   el: '#app',
   render: h => h(App)
 })
+
+
